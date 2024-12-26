@@ -56,6 +56,11 @@ A real-time sign language recognition system that uses deep learning and compute
     git clone <repository-link>
     cd signlanguage-recognition
 
+## Demo:
+https://github.com/user-attachments/assets/4731742e-0d5c-4298-ab40-2826837ebd7d
+
+Disclamer: These keypoints are inserted by me! It is not linked to any official sign which are used commonly.
+
 ## Screenshots
 <img width="716" alt="Screenshot 2024-12-01 at 8 14 38 PM" src="https://github.com/user-attachments/assets/f594a82e-bcd0-40bf-aa86-4de15bced1af" />
 <img width="1392" alt="Screenshot 2024-12-01 at 8 01 03 PM" src="https://github.com/user-attachments/assets/54136eea-8195-4904-ad9b-d8a3e3ed1deb" />
