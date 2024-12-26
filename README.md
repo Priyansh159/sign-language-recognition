@@ -52,5 +52,28 @@ A real-time sign language recognition system that uses deep learning and compute
    ```bash
    pip install tensorflow opencv-python mediapipe numpy matplotlib scikit-learn
 
+## Run the Project:
+    git clone <repository-link>
+    cd signlanguage-recognition
+
+## Screenshots
+<img width="716" alt="Screenshot 2024-12-01 at 8 14 38 PM" src="https://github.com/user-attachments/assets/f594a82e-bcd0-40bf-aa86-4de15bced1af" />
+<img width="1392" alt="Screenshot 2024-12-01 at 8 01 03 PM" src="https://github.com/user-attachments/assets/54136eea-8195-4904-ad9b-d8a3e3ed1deb" />
+<img width="1392" alt="Screenshot 2024-12-01 at 8 01 26 PM" src="https://github.com/user-attachments/assets/9947b8b4-eb97-4cd1-83d5-b78de9b028cb" />
+
+## Challenges Faced 🧗‍♂️
+	•	Managing sequential data for model training.
+	•	Ensuring the model performs in real-time with webcam input.
+	•	Debugging MediaPipe integration with TensorFlow.
+
+## Contributors ✨
+	•	Priyansh Rana
+	•	Geetansh Anand
+	•	Deepanshu Kumar Mani
+
+## Acknowledgments 🙏
+	•	Thanks to MediaPipe for their efficient pose detection.
+	•	Guided by Mr. Puneet Mittal Sir.
+
 
 
