@@ -60,6 +60,7 @@ A real-time sign language recognition system that uses deep learning and compute
 https://github.com/user-attachments/assets/4731742e-0d5c-4298-ab40-2826837ebd7d
 
 Disclamer: These keypoints are inserted by me! It is not linked to any official sign which are used commonly.
+Look at the Top line for the o/p. The lower ones are for finding the best probabilities.
 
 ## Screenshots
 <img width="716" alt="Screenshot 2024-12-01 at 8 14 38 PM" src="https://github.com/user-attachments/assets/f594a82e-bcd0-40bf-aa86-4de15bced1af" />
