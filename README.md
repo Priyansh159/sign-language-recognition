@@ -59,7 +59,7 @@ A real-time sign language recognition system that uses deep learning and compute
 ## Demo:
 https://github.com/user-attachments/assets/4731742e-0d5c-4298-ab40-2826837ebd7d
 
-Disclamer: These keypoints are inserted by me! It is not linked to any official sign which are used commonly.</br>
+Disclaimer: These keypoints are inserted by me! It is not linked to any official sign which are used commonly.</br>
 Look at the Top line for the o/p. The lower ones are for finding the best probabilities.
 
 ## Screenshots
